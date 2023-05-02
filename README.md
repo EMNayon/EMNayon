@@ -6,7 +6,7 @@ Looking for a role in an organizations to leverage my web development skill my k
 
 Skills: REACT / JS / HTML / CSS / PHP
 
-- 🔭 I’m currently working on <a href="https://ainoviqit.com/">AinoviQ</a>
+- 🔭 I’m currently working on <a href="https://ainoviqit.com/" target="_blank">AinoviQ</a>
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
