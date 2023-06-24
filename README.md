@@ -1,4 +1,4 @@
-<img src="Linkedin_conver.png" alt="Girl in a jacket">
+<img src="./Linkedin_conver.png" alt="Girl in a jacket">
 
 ### Hi there 👋, I'm EM Nayon
 #### Web Developer
