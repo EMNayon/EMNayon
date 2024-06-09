@@ -7,7 +7,7 @@ Looking for a role in an organizations to leverage my web development skill my k
 
 Skills: Laravel / PHP / MySQL / REACT / JS / Ajax & jQuery / Git & Github / Linux
 
-- 🔭 I’m currently working on <a href="https://ainoviqit.com/" target="_blank">AinoviQ</a>
+- 🔭 I’m currently working on <a href="https://www.omeganetbd.com/" target="_blank">Omega Net BD</a>
 - 🌱 I’m currently learning Laravel & Database Design 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
