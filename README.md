@@ -14,12 +14,8 @@ Skills: Laravel / PHP / MySQL / REACT / JS / Ajax & jQuery / Git & Github / Linu
 - 📫 How to reach me: emnayonpu@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EMNayon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emnayon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emnayon437)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/em_nayon/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EMNayon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emnayon/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emnayon437) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/em_nayon/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EMNayon)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMNayon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EMNayon&show_icons=true&count_private=true)  
- 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=EMNayon)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMNayon)](https://github.com/anuraghazra/github-readme-stats) ![GitHub streak stats](https://streak-stats.demolab.com/?user=EMNayon)  
