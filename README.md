@@ -1,7 +1,7 @@
 <img src="./banner.png" alt="Girl in a jacket">
 
 ### Hi there 👋, I'm Emran Masud
-#### Web Developer
+#### Web Developer | Laravel Enthusiast & Passionate | Building Web Dreams with Laravel Framework
 
 Looking for a role in an organizations to leverage my web development skill my knowledge grows as the organization grows and skills with emerging web development trends.
 
