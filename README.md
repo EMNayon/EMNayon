@@ -1,4 +1,4 @@
-<img src="./linkedin-cover-1.png" alt="Girl in a jacket">
+<img src="./banner.png" alt="Girl in a jacket">
 
 ### Hi there 👋, I'm Emran Masud
 #### Web Developer
