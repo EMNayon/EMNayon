@@ -61,4 +61,4 @@ I have experience in building full-stack solutions from scratch. Here are some o
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EMNayon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emnayon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/emnayon437) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/em_nayon/)
 
-[![GitHub streak stats](https://streak-stats.demolab.com/?user=EMNayon&theme=dark)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=EMNayon&theme=dark)
