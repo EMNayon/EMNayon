@@ -64,4 +64,8 @@ I have experience in building full-stack solutions from scratch. Here are some o
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">](https://www.facebook.com/emnayon437) 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">](https://www.instagram.com/em_nayon/)
 
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://www.linkedin.com/in/emnayon/) 
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">](https://www.facebook.com/emnayon437) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:emnayonpu@gmail.com)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=EMNayon&theme=dark)
