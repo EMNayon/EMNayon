@@ -7,14 +7,25 @@ I am an experienced Full Stack Developer with strong expertise in **PHP**, **Lar
 
 ---
 
+### 💼 Professional Experience
+
+| Role | Company/Status | Duration | Key Responsibilities |
+| :--- | :--- | :--- | :--- |
+| **Software Developer** | Self-Employed (Remote) | Nov 2023 - Present | Designed REST APIs, optimized databases, and implemented multilingual features. Built scalable, maintainable codebases following OOP, MVC, and Agile practices. |
+| **Laravel Developer** | Omega Net BD | May 2024 - May 2025 | Designed and integrated RESTful APIs for dynamic product filtering and search. Implemented multilingual features (EN, ES, FR) for global product catalog. |
+| **Jr. Laravel Developer** (Remote) | Genius Softwares | Aug 2023 - Feb 2024 | Developed secure authentication and authorization systems. Assisted in planning, designing, and executing full-stack solutions from scratch. |
+| **Web Developer** (Intern) | AinoviQ IT Ltd | Feb 2023 - Jul 2023 | Requirement collaboration with stakeholders. Troubleshooting and debugging front-end issues. |
+
+---
+
 ### 🛠️ Technical Skills
 
 | Area | Technologies & Tools |
 | :--- | :--- |
 | **Backend & Databases** | PHP, **Laravel**, MySQL |
 | **Frontend & UI** | **React**, jQuery, Tailwind CSS, HTML, CSS |
-| **Development Tools** | VS Code, **Git & GitHub**, Postman, Composer |
-| **Systems & Cloud** | **RESTful API Development**, Linux Server Management, Ubuntu Server |
+| **Development Tools** | VS Code, **Git & GitHub**, Postman, Composer, ClickUp |
+| **Systems & Cloud** | **RESTful API Development**, Linux Server Management, Ubuntu Server, Hosting & Domain Setup |
 | **Concepts & Practices** | Problem Solving, Clean Code & Best Practices, CI/CD |
 
 ---
@@ -23,21 +34,16 @@ I am an experienced Full Stack Developer with strong expertise in **PHP**, **Lar
 
 I have experience in building full-stack solutions from scratch. Here are some of my key projects:
 
-* **E-Commerce Platform**
+* **[E-Commerce Platform](https://mdflbd.com/)**
     * Developed a full-featured e-commerce platform with advanced product, sales, customer, and marketing management modules.
-    * Implemented a secure, role-based admin panel with dynamic settings, reporting, and automated workflow features.
-* **UAP-Journal of Law & Policy**
+* **[UAP-Journal of Law & Policy](https://jlp.uap-bd.edu/)**
     * Developed a web-based platform for managing research paper submissions, reviews, and approvals for a law journal.
-    * Implemented role-based access (Admin, Reviewer, Author) with automated status updates and deadline tracking.
-* **Zakat Welfare Foundation**
+* **[Zakat Welfare Foundation](https://test.zakatwelfarefoundation.com/)**
     * Developed an online donation system with **SSLCommerz payment gateway integration** for secure transactions.
-    * Built an admin panel to manage donors, donation history, and fund allocations.
-* **News Portal**
+* **[News Portal](https://zakat.tv/)**
     * Built an admin panel for category-wise news publishing, editing, and breaking news highlights.
-    * Designed an **SEO-friendly & responsive frontend** with related news and social media sharing.
-* **Doctor Appointment System**
-    * Built a single-doctor appointment booking system with time-slot management.
-    * Implemented using PHP, Laravel, MySQL & Bootstrap.
+* **[Doctor Appointment System](http://drnashir.webaidsolution.com/)**
+    * Built a single-doctor appointment booking system with time-slot management. Implemented using PHP, Laravel, MySQL & Bootstrap.
 
 ---
 
