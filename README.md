@@ -3,7 +3,7 @@
 ## 💻 Hi there 👋, I'm Md Emran Masud
 #### Experienced Full Stack Developer | Laravel Enthusiast & RESTful API Specialist
 
-[cite_start]I am an experienced Full Stack Developer [cite: 7] [cite_start]with strong expertise in **PHP**, **Laravel**, and **RESTful API integration**[cite: 7, 45]. [cite_start]I specialize in building scalable, secure, and high-performance backend systems [cite: 8] [cite_start]with clean, maintainable code[cite: 8]. [cite_start]I have a proven ability to optimize databases and enhance system performance[cite: 9].
+I am an experienced Full Stack Developer with strong expertise in **PHP**, **Laravel**, and **RESTful API integration**. I specialize in building scalable, secure, and high-performance backend systems with clean, maintainable code. I have a proven ability to optimize databases and enhance system performance.
 
 ---
 
@@ -11,43 +11,43 @@
 
 | Area | Technologies & Tools |
 | :--- | :--- |
-| **Backend & Databases** | [cite_start]PHP [cite: 41][cite_start], **Laravel** [cite: 41][cite_start], MySQL [cite: 41] |
-| **Frontend & UI** | [cite_start]**React** [cite: 43][cite_start], jQuery [cite: 43][cite_start], Tailwind CSS [cite: 43][cite_start], HTML [cite: 43][cite_start], CSS [cite: 43] |
-| **Development Tools** | [cite_start]VS Code [cite: 44][cite_start], **Git & GitHub** [cite: 44][cite_start], Postman [cite: 44][cite_start], Composer [cite: 44] |
-| **Systems & Cloud** | [cite_start]**RESTful API Development** [cite: 45][cite_start], Linux Server Management [cite: 45][cite_start], Ubuntu Server [cite: 46] |
-| **Concepts & Practices** | [cite_start]Problem Solving [cite: 72][cite_start], Clean Code & Best Practices [cite: 74][cite_start], CI/CD [cite: 76] |
+| **Backend & Databases** | PHP, **Laravel**, MySQL |
+| **Frontend & UI** | **React**, jQuery, Tailwind CSS, HTML, CSS |
+| **Development Tools** | VS Code, **Git & GitHub**, Postman, Composer |
+| **Systems & Cloud** | **RESTful API Development**, Linux Server Management, Ubuntu Server |
+| **Concepts & Practices** | Problem Solving, Clean Code & Best Practices, CI/CD |
 
 ---
 
 ### 🚀 Featured Projects
 
-[cite_start]I have experience in building full-stack solutions from scratch[cite: 34]. Here are some of my key projects:
+I have experience in building full-stack solutions from scratch. Here are some of my key projects:
 
 * **E-Commerce Platform**
-    * [cite_start]Developed a full-featured e-commerce platform with advanced product, sales, customer, and marketing management modules[cite: 55].
-    * [cite_start]Implemented a secure, role-based admin panel with dynamic settings, reporting, and automated workflow features[cite: 56].
+    * Developed a full-featured e-commerce platform with advanced product, sales, customer, and marketing management modules.
+    * Implemented a secure, role-based admin panel with dynamic settings, reporting, and automated workflow features.
 * **UAP-Journal of Law & Policy**
-    * [cite_start]Developed a web-based platform for managing research paper submissions, reviews, and approvals for a law journal[cite: 58].
-    * [cite_start]Implemented role-based access (Admin, Reviewer, Author) with automated status updates and deadline tracking[cite: 59].
+    * Developed a web-based platform for managing research paper submissions, reviews, and approvals for a law journal.
+    * Implemented role-based access (Admin, Reviewer, Author) with automated status updates and deadline tracking.
 * **Zakat Welfare Foundation**
-    * [cite_start]Developed an online donation system with **SSLCommerz payment gateway integration** for secure transactions[cite: 69].
-    * [cite_start]Built an admin panel to manage donors, donation history, and fund allocations[cite: 70].
+    * Developed an online donation system with **SSLCommerz payment gateway integration** for secure transactions.
+    * Built an admin panel to manage donors, donation history, and fund allocations.
 * **News Portal**
-    * [cite_start]Built an admin panel for category-wise news publishing, editing, and breaking news highlights[cite: 65].
-    * [cite_start]Designed an **SEO-friendly & responsive frontend** with related news and social media sharing[cite: 67].
+    * Built an admin panel for category-wise news publishing, editing, and breaking news highlights.
+    * Designed an **SEO-friendly & responsive frontend** with related news and social media sharing.
 * **Doctor Appointment System**
-    * [cite_start]Built a single-doctor appointment booking system with time-slot management[cite: 61].
-    * [cite_start]Implemented using PHP, Laravel, MySQL & Bootstrap[cite: 63].
+    * Built a single-doctor appointment booking system with time-slot management.
+    * Implemented using PHP, Laravel, MySQL & Bootstrap.
 
 ---
 
 ### 💡 Career & Learning
 
-* [cite_start]🔭 I'm currently focused on **designing REST APIs, optimizing databases, and implementing multilingual features**[cite: 25].
+* 🔭 I'm currently focused on **designing REST APIs, optimizing databases, and implementing multilingual features**.
 * 🌱 I’m currently focused on expanding my knowledge in **Laravel & Database Design**.
-* [cite_start]👯 I’m looking to collaborate on **Open Source Contributions** [cite: 75] and challenging full-stack projects.
-* [cite_start]💬 Ask me about Web Development [cite: 24] [cite_start]or **RESTful API Development**[cite: 45].
-* [cite_start]📧 How to reach me: **emnayonpu@gmail.com**[cite: 2].
+* 👯 I’m looking to collaborate on **Open Source Contributions** and challenging full-stack projects.
+* 💬 Ask me about Web Development or **RESTful API Development**.
+* 📧 How to reach me: **emnayonpu@gmail.com**.
 
 ---
 
