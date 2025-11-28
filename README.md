@@ -17,18 +17,6 @@ I am an experienced Full Stack Developer with strong expertise in **PHP**, **Lar
 | **Web Developer** (Intern) | AinoviQ IT Ltd | Feb 2023 - Jul 2023 | Requirement collaboration with stakeholders. Troubleshooting and debugging front-end issues. |
 
 ---
-
-### 🛠️ Technical Skills
-
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Databases** | PHP, **Laravel**, MySQL |
-| **Frontend & UI** | **React**, jQuery, Tailwind CSS, HTML, CSS |
-| **Development Tools** | VS Code, **Git & GitHub**, Postman, Composer, ClickUp |
-| **Systems & Cloud** | **RESTful API Development**, Linux Server Management, Ubuntu Server, Hosting & Domain Setup |
-| **Concepts & Practices** | Problem Solving, Clean Code & Best Practices, CI/CD |
-
----
 ### 🛠️ Technical Skills
 
 | Area | Technologies & Tools |
@@ -38,6 +26,7 @@ I am an experienced Full Stack Developer with strong expertise in **PHP**, **Lar
 | **Development Tools** | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer Badge"> |
 | **Systems & Cloud** | <img src="https://img.shields.io/badge/REST_API-005C9C?style=for-the-badge&logo=rest&logoColor=white" alt="REST API Badge"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Badge"> |
 | **Concepts & Practices** | Problem Solving, Clean Code, CI/CD |
+---
 
 ### 🚀 Featured Projects
 
